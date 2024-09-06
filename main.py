@@ -1,16 +1,16 @@
-# -*- coding: utf-8 -*-
+
 import argparse
 import sys
 import requests
 import json
 
-THORN = 'þ'  # Thorn character for separating fields
+THORN = 'þ' 
 
 
 def fetch_data_from_api(page):
     url = f"https://api.fbi.gov/wanted/v1/list?page={page}"
     response = requests.get(url)
-    response.raise_for_status()  # Raise an error for bad status codes
+    response.raise_for_status()  
     return response.json()
 
 
