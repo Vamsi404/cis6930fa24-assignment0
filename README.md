@@ -1,6 +1,3 @@
-Sure! Here's the updated README file with the assignment description included:
-
----
 
 # CIS6930FA24 -- Assignment 0 -- Template
 
@@ -45,9 +42,6 @@ To execute the program, use one of the following commands:
   ```
 
 ## Example (optional)
-
-You may include an example video or screenshot showing how the script runs.
-
 ![video](video_link)
 
 ## Functions
