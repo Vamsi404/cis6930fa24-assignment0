@@ -44,6 +44,10 @@ To execute the program, use one of the following commands:
 ## Example (optional)
 ![video.mp4](video.mp4)
 
+https://github.com/user-attachments/assets/212f3b61-2d20-48de-b0c9-80e28dc0df3e
+
+
+
 ## Functions
 
 #### `main.py`
