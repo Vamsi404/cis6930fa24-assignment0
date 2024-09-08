@@ -42,7 +42,7 @@ To execute the program, use one of the following commands:
   ```
 
 ## Example (optional)
-![video](video_link)
+![video](video.mov)
 
 ## Functions
 
