@@ -102,4 +102,4 @@ https://github.com/user-attachments/assets/212f3b61-2d20-48de-b0c9-80e28dc0df3e
   - The local JSON file (if used) follows the same structure as the data returned by the FBI API.
 
 - **Known Bugs**:
-  
+ -Some comma-separated names were initially missed, so I had to join them again using a comma to ensure all values were included.
