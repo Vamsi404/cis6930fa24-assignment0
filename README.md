@@ -42,7 +42,7 @@ To execute the program, use one of the following commands:
   ```
 
 ## Example (optional)
-![video](video.mp4)
+![video.mp4](video.mp4)
 
 ## Functions
 
