@@ -86,14 +86,6 @@ https://github.com/user-attachments/assets/212f3b61-2d20-48de-b0c9-80e28dc0df3e
       # Code to determine data source and process data
   ```
 
-#### `parsefile.py`
-
-- **`dojsonparse()`**: Processes and parses JSON data from a file.
-
-  ```python
-  def dojsonparse():
-      # Code to parse JSON data from a file
-  ```
 
 ## Bugs and Assumptions
 
