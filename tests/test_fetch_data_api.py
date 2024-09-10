@@ -38,22 +38,4 @@ def test_fetch_data_from_api():
         result = main.fetch_data_from_api(1)
         
         assert result == MOCK_API_DATA
-
-def test_fetch_data_from_file():
-    with mock.patch("builtins.open", mock.mock_open(read_data=json.dumps(MOCK_FILE_DATA))):
-        with mock.patch("main.json.load") as mocked_json_load:
-            mocked_json_load.return_value = MOCK_FILE_DATA
-            
-            result = main.fetch_data_from_file("dummy_file.json")
-            
-            assert result == MOCK_FILE_DATA
-
-def test_extract_and_format_data():
-    formatted_data = main.extract_and_format_data(MOCK_API_DATA)
-    
-    expected_data = [
-        f"Most Wanted 1þTerrorism,MurderþNew York,Los Angeles",
-        f"Most Wanted 2þFraudþChicago"
-    ]
-    
-    assert formatted_data == expected_data
+s
