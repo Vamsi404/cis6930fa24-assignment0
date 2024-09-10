@@ -1,2 +1,4 @@
 - Getting started with Pytest | https://docs.pytest.org/en/stable/
-- 
+- Pipenv Documentation | https://pipenv.pypa.io/en/latest/
+- Mock in python | https://docs.python.org/3/library/unittest.mock.html
+- Learning how to use it | https://docs.python-requests.org/en/latest/
