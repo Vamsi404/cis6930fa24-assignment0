@@ -38,4 +38,3 @@ def test_fetch_data_from_api():
         result = main.fetch_data_from_api(1)
         
         assert result == MOCK_API_DATA
-s
