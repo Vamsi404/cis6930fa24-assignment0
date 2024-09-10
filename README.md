@@ -1,5 +1,5 @@
 
-# CIS6930FA24 -- Assignment 0 -- Template
+# CIS6930FA24 -- Assignment 0 
 
 **Name**: Vamsi Manda
 **UFID**: 43226231
